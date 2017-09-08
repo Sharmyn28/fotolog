@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu');
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+
+body {
+  background-color: #978E8E !important;
+  color:black;
+  font-family: 'Questrial';
+}
+
+header {
+  margin-top: 20px;
+}
+img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.white-text{
+  color: #fff;
+}
+
+.logo{
+  transform: scale(0.8);
+}
+
+.baloo{
+  font-family: 'Baloo Tammudu';
+}
+
+.m-1{
+  margin: 1%;
+}
+
+#bannerflog img {
+  height: 100px;
+}
+h1, p{
+  color: #fff;
+}
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+textarea, input{
+  width: 100%;
+  border-radius: 0px;
+  border: 1px solid #4A84A5;
+  margin-bottom: 20px;
+}
+
+.posteo {
+  color: #fff;
+}
+.posteo strong{
+  display: block;
+}
+.posteo hr {
+  border: 1px solid #fff;
+}
+
+footer{
+  padding: 10px;
+}
+
+
+
+/* Estilos comentarios */
+.coment{
+  background-color: #396988;
+  padding: 2%;
+  color: #fff;
+  margin: 1%;
+}
